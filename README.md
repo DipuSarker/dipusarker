@@ -25,4 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipusarker&" alt="dipusarker" /></p>
   
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dipusarker&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dipusarker)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dipusarker)  
