@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dipu Sarker</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 ![Full Stack Web Developer](https://github.com/DipuSarker/dipusarker/blob/master/p1.png)
 
-- 🌱 I’m currently learning **MERN,ASP.NET**
+- 🌱 I’m currently learning **ASP.NET, ASP.NET Core, Python, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DipuSarker](https://github.com/DipuSarker)
 
